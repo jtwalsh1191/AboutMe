@@ -1,0 +1,338 @@
+[
+  {
+    "CourseName": "Comp Science - An Introduction",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 74,
+    "Semester": 1,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "CRW: Telling Stories",
+    "Number": 1090,
+    "Level": 1,
+    "Grade": 66,
+    "Semester": 1,
+    "SubjectArea": "ENGL"
+  },
+  {
+    "CourseName": "Fitness and Wellness",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 85,
+    "Semester": 1,
+    "SubjectArea": "HKR"
+  },
+  {
+    "CourseName": "Calculus I",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 83,
+    "Semester": 1,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Introductory Physics I",
+    "Number": 1020,
+    "Level": 1,
+    "Grade": 83,
+    "Semester": 1,
+    "SubjectArea": "PHYS"
+  },
+  {
+    "CourseName": "Intro to Programming",
+    "Number": 1001,
+    "Level": 1,
+    "Grade": 65,
+    "Semester": 2,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Calculus II",
+    "Number": 1001,
+    "Level": 1,
+    "Grade": 65,
+    "Semester": 2,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Crtcl Rdng & Wrtng in Rhetoric",
+    "Number": 1110,
+    "Level": 1,
+    "Grade": 73,
+    "Semester": 2,
+    "SubjectArea": "ENGL"
+  },
+  {
+    "CourseName": "Gen Phys II:Osc,Waves,Electrom",
+    "Number": 1051,
+    "Level": 1,
+    "Grade": 56,
+    "Semester": 2,
+    "SubjectArea": "PHYS"
+  },
+  {
+    "CourseName": "An Intro to Policing in Canada",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 76,
+    "Semester": 2,
+    "SubjectArea": "PLST"
+  },
+  {
+    "CourseName": "Intro to Logic for Comp Sci",
+    "Number": 1002,
+    "Level": 1,
+    "Grade": 85,
+    "Semester": 3,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Obj-Orient Prgm Human Comp Int",
+    "Number": 2001,
+    "Level": 2,
+    "Grade": 59,
+    "Semester": 3,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Computer Architecture",
+    "Number": 2003,
+    "Level": 2,
+    "Grade": 55,
+    "Semester": 3,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro University French I",
+    "Number": 1500,
+    "Level": 1,
+    "Grade": 75,
+    "Semester": 3,
+    "SubjectArea": "FREN"
+  },
+  {
+    "CourseName": "Linear Algebra I",
+    "Number": 2050,
+    "Level": 2,
+    "Grade": 74,
+    "Semester": 3,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Data Strctrs & Algorithms",
+    "Number": 2002,
+    "Level": 2,
+    "Grade": "PAS",
+    "Semester": 4,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Software Engineering",
+    "Number": 2005,
+    "Level": 2,
+    "Grade": 85,
+    "Semester": 4,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Social Issues & Prof Practice",
+    "Number": 2008,
+    "Level": 2,
+    "Grade": 95,
+    "Semester": 4,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Calculus III",
+    "Number": 2000,
+    "Level": 2,
+    "Grade": 73,
+    "Semester": 4,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Resist Train for Hlth&Activity",
+    "Number": 1001,
+    "Level": 1,
+    "Grade": "PAS",
+    "Semester": 4,
+    "SubjectArea": "HKR"
+  },
+  {
+    "CourseName": "Geographies of Global Change",
+    "Number": 1050,
+    "Level": 1,
+    "Grade": 83,
+    "Semester": 5,
+    "SubjectArea": "GEOG"
+  },
+  {
+    "CourseName": "Computer Networking",
+    "Number": 2006,
+    "Level": 2,
+    "Grade": 97,
+    "Semester": 5,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Intro to Inform Management",
+    "Number": 2007,
+    "Level": 2,
+    "Grade": 86,
+    "Semester": 5,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Vector Calculus",
+    "Number": 3202,
+    "Level": 3,
+    "Grade": 84,
+    "Semester": 5,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Stats for Science Student",
+    "Number": 2550,
+    "Level": 2,
+    "Grade": 65,
+    "Semester": 5,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "The University Experience",
+    "Number": 1010,
+    "Level": 1,
+    "Grade": 86,
+    "Semester": 5,
+    "SubjectArea": "UNIV"
+  },
+  {
+    "CourseName": "Intro to Business in Society",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 66,
+    "Semester": 6,
+    "SubjectArea": "BUSI"
+  },
+  {
+    "CourseName": "Alg. Design & Analysis",
+    "Number": 3202,
+    "Level": 3,
+    "Grade": 65,
+    "Semester": 6,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro to Microeconomics",
+    "Number": 1010,
+    "Level": 1,
+    "Grade": 90,
+    "Semester": 6,
+    "SubjectArea": "ECON"
+  },
+  {
+    "CourseName": "Mathematics Of Finance",
+    "Number": 2090,
+    "Level": 2,
+    "Grade": 65,
+    "Semester": 6,
+    "SubjectArea": "MATH"
+  },
+  {
+    "CourseName": "Introduction to Archaeology",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 83,
+    "Semester": 6,
+    "SubjectArea": "ARCH"
+  },
+  {
+    "CourseName": "Intro to Operating Systems",
+    "Number": 2004,
+    "Level": 2,
+    "Grade": 73,
+    "Semester": 7,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro to Data Mining",
+    "Number": 3401,
+    "Level": 3,
+    "Grade": 59,
+    "Semester": 7,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro. Theory of Computation",
+    "Number": 3602,
+    "Level": 3,
+    "Grade": 71,
+    "Semester": 7,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "North American Popular Music",
+    "Number": 2011,
+    "Level": 2,
+    "Grade": 66,
+    "Semester": 7,
+    "SubjectArea": "MUS"
+  },
+  {
+    "CourseName": "Introduction to Sociolog",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 70,
+    "Semester": 7,
+    "SubjectArea": "SOCI"
+  },
+  {
+    "CourseName": "Web Programming",
+    "Number": 3100,
+    "Level": 3,
+    "Grade": 75,
+    "Semester": 8,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro To Folklore",
+    "Number": 1000,
+    "Level": 1,
+    "Grade": 71,
+    "Semester": 8,
+    "SubjectArea": "FOLK"
+  },
+  {
+    "CourseName": "Health Ethics",
+    "Number": 2100,
+    "Level": 2,
+    "Grade": 73,
+    "Semester": 8,
+    "SubjectArea": "PHIL"
+  },
+  {
+    "CourseName": "Intro to Natural Lang Process",
+    "Number": 4750,
+    "Level": 4,
+    "Grade": 80,
+    "Semester": 9,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Computer Networks",
+    "Number": 4759,
+    "Level": 4,
+    "Grade": 77,
+    "Semester": 9,
+    "SubjectArea": "COMP"
+  },
+  {
+    "CourseName": "Intro to Macroeconomics",
+    "Number": 1020,
+    "Level": 1,
+    "Grade": 72,
+    "Semester": 9,
+    "SubjectArea": "ECON"
+  }
+]
